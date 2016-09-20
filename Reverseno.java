@@ -2,8 +2,10 @@ class Reverseno
 {
 	public static void main(String[] args)
 	{
-		int n,i;
-		n=12345;
+		int i;
+		int n=0;
+
+		n=Integer.parseInt(args[0]);
 		while(n!=0)
 		{
 			i=n%10;

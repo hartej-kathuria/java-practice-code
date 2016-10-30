@@ -25,6 +25,6 @@ class Answerques
 				}	  
 		}
 		if (i==3)
-			System.out.println("Incorrect answer,he correct answer="+correctanswer);
+			System.out.println("Incorrect answer,the correct answer="+correctanswer);
 	}
 }
